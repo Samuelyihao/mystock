@@ -1,1 +1,3 @@
-# mystockbot2020
+# mystockbotforsamuel
+
+line chatbot for stock
